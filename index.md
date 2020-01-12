@@ -2,19 +2,18 @@
 
 # [MikamiTETRIS](https://www.twitch.tv/mikamitetris)
 ### General
-!discord
-!loots
-!cofres
-!redes
-!youtube
-!uptime
-!clima
-!brainpower
-!bttv
-!ebttv
-!ffz
-!effz
-
+- !discord
+- !loots
+- !cofres
+- !redes
+- !youtube
+- !uptime
+- !clima
+- !brainpower
+- !bttv
+- !ebttv
+- !ffz
+- !effz
 
 ### Sonidos
 !inception MikamiTETRIS-only
