@@ -1,7 +1,8 @@
 
 
 
-# [MikamiTETRIS](https://www.twitch.tv/mikamitetris)![Image](https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamitetris-400x225.jpg?width=806&height=454)
+# [MikamiTETRIS](https://www.twitch.tv/mikamitetris)
+![Image](https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamitetris-400x225.jpg?width=806&height=454)
 ### General
 |Comando|Descripción|Usage|
 |--|--|--|
@@ -15,8 +16,6 @@
 |!brainpower| Brainpower lyrics|Todos
 |!ffz|Emotes adicionales [FrankerFaceZ](https://www.frankerfacez.com/)|Todos|
 |!bttv|Emotes adicionales [BetterTTV](https://betterttv.com/)|Todos|
-
-
 ### Sonidos
 |Comando|Descripción|Usage|
 |--|--|--|
@@ -27,7 +26,6 @@
 |ayaya|♪ AYAYA AYAYA|Todos|
 |omae|♪ Omae wa mou shindeiru|Todos|
 |waw|♪ Wha～o| Todos
-
 ### Moderadores
 |Comando|Descripción|Usage|
 |--|--|--|
