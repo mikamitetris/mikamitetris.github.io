@@ -1,7 +1,7 @@
 
 
 
-# [MikamiTETRIS](https://www.twitch.tv/mikamitetris)![Image](https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamitetris-1280x720.jpg?width=806&height=454)
+# [MikamiTETRIS](https://www.twitch.tv/mikamitetris)![Image](https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamitetris-400x225.jpg?width=806&height=454)
 ### General
 |Comando|Descripción|Usage|
 |--|--|--|
