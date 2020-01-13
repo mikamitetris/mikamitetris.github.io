@@ -1,36 +1,44 @@
-![Image](https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamitetris-1920x1080.jpg?width=806&height=454)
 
-# [MikamiTETRIS](https://www.twitch.tv/mikamitetris)
+
+
+# [MikamiTETRIS](https://www.twitch.tv/mikamitetris)![Image](https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamitetris-1280x720.jpg?width=806&height=454)
 ### General
-- !discord
-- !loots
-- !cofres
-- !redes
-- !youtube
-- !uptime
-- !clima
-- !brainpower
-- !bttv
-- !ebttv
-- !ffz
-- !effz
+|Comando|Descripción|Usage|
+|--|--|--|
+|!discord|Discord! [~Facción Tetris](https://discord.gg/hbU8xXK)|Todos
+|!loots|Link para enviar [loots](https://loots.com/mikamitetris)|Todos
+|!cofres|Link de [Streamloots](https://www.streamloots.com/mikamitetris)|Todos
+|!redes|Redes sociales|Todos
+|!youtube|[YouTube](https://www.youtube.com/channel/UC5Oq-n1od4UsWGvQcAR7A3A)| Todos
+|!uptime|Tiempo de transmisión|Todos
+|!clima|Clima en Buenos Aires|Todos
+|!brainpower| Brainpower lyrics|Todos
+|!ffz|Emotes adicionales [FrankerFaceZ](https://www.frankerfacez.com/)|Todos|
+|!bttv|Emotes adicionales [BetterTTV](https://betterttv.com/)|Todos|
+
 
 ### Sonidos
-!inception MikamiTETRIS-only
-!cronica MikamiTETRIS-only
-!4w mod-only
-!entra mod-only
-ayaya
-omae
-waw
+|Comando|Descripción|Usage|
+|--|--|--|
+|!inception|♪ Inception|Streamer|
+|!cronica|♪ Cronica TV|Streamer|
+|!4w|♪ Usted ha sido forguaideado por Mikami|Moderadores|
+|!entra|♪ ¿Entraste?|Moderadores|
+|ayaya|♪ AYAYA AYAYA|Todos|
+|omae|♪ Omae wa mou shindeiru|Todos|
+|waw|♪ Wha～o| Todos
 
 ### Moderadores
-!avatar <username>
-!s <username>
-!viewers
-
+|Comando|Descripción|Usage|
+|--|--|--|
+|!avatar `<username>`|Devuelve un link con el avatar del usuario|Moderadores|
+|!s `<username>`|Envía un shoutout sobre el usuario|Moderadores|
+|!effz|Prueba de emote [FrankerFaceZ](https://www.frankerfacez.com/)|Moderadores|
+|!ebttv|Prueba de emote [BetterTTV](https://betterttv.com/)|Moderadores|
 ### Enlaces
-https://twitter.com/MikamiTETRIS
-https://www.facebook.com/MikamiTETRIS
+- [Discord! ~Facción Tetris](https://discord.gg/hbU8xXK)
+- [Twitter](https://twitter.com/MikamiTETRIS)
+- [Facebook](https://www.facebook.com/MikamiTETRIS)
+- [YouTube](https://www.youtube.com/channel/UC5Oq-n1od4UsWGvQcAR7A3A)
 
 ~beta
