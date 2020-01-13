@@ -16,22 +16,22 @@ Comando|Descripción|Usage
 !bttv|Emotes adicionales [BetterTTV](https://betterttv.com/)|Todos
 
 ### Sonidos
-|Comando|Descripción|Usage|
-|--|--|--|
-|!inception|♪ Inception|Streamer|
-|!cronica|♪ Cronica TV|Streamer|
-|!4w|♪ Usted ha sido forguaideado por Mikami|Moderadores|
-|!entra|♪ ¿Entraste?|Moderadores|
-|ayaya|♪ AYAYA AYAYA|Todos|
-|omae|♪ Omae wa mou shindeiru|Todos|
-|waw|♪ Wha～o| Todos
+Comando|Descripción|Usage
+--|--|--
+!inception|♪ Inception|Streamer
+!cronica|♪ Cronica TV|Streamer
+!4w|♪ Usted ha sido forguaideado por Mikami|Moderadores
+!entra|♪ ¿Entraste?|Moderadores
+ayaya|♪ AYAYA AYAYA|Todos
+omae|♪ Omae wa mou shindeiru|Todos
+waw|♪ Wha～o|Todos
 ### Moderadores
-|Comando|Descripción|Usage|
-|--|--|--|
-|!avatar `<username>`|Devuelve un link con el avatar del usuario|Moderadores|
-|!s `<username>`|Envía un shoutout sobre el usuario|Moderadores|
-|!effz|Prueba de emote [FrankerFaceZ](https://www.frankerfacez.com/)|Moderadores|
-|!ebttv|Prueba de emote [BetterTTV](https://betterttv.com/)|Moderadores|
+Comando|Descripción|Usage
+--|--|--
+!avatar `<username>`|Devuelve un link con el avatar del usuario|Moderadores
+!s `<username>`|Envía un shoutout sobre el usuario|Moderadores
+!effz|Prueba de emote [FrankerFaceZ](https://www.frankerfacez.com/)|Moderadores
+!ebttv|Prueba de emote [BetterTTV](https://betterttv.com/)|Moderadores
 ### Enlaces
 - [Discord! ~Facción Tetris](https://discord.gg/hbU8xXK)
 - [Twitter](https://twitter.com/MikamiTETRIS)
