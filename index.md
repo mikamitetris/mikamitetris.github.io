@@ -32,7 +32,7 @@ waw|♪ Wha～o|Todos
 Comando|Descripción|Usage
 --|--|--
 !avatar `<username>`|Devuelve un link con el avatar del usuario|Moderadores
-!s `<username>`|Envía un shoutout sobre el usuario|Moderadores
+!so `<username>`|Envía un shoutout sobre el usuario|Moderadores
 !effz|Prueba de emote [FrankerFaceZ](https://www.frankerfacez.com/)|Moderadores
 !ebttv|Prueba de emote [BetterTTV](https://betterttv.com/)|Moderadores
 
