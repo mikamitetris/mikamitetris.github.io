@@ -23,9 +23,10 @@ Comando|Descripción|Usage
 !cronica|♪ Cronica TV|Streamer
 !4w|♪ Usted ha sido forguaideado por Mikami|Moderadores
 !entra|♪ ¿Entraste?|Moderadores
-ayaya|♪ AYAYA AYAYA|Todos
-omae|♪ Omae wa mou shindeiru|Todos
-waw|♪ Wha～o|Todos
+!ayaya|♪ AYAYA AYAYA|Todos
+!manca|♪ Mikami eres manca|Subscriptores
+!omae|♪ Omae wa mou shindeiru|Todos
+!waw|♪ Wha～o|Todos
 
 ### Moderadores
 
