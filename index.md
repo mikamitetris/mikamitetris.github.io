@@ -1,5 +1,5 @@
 ## [MikamiTETRIS](https://www.twitch.tv/mikamitetris)
-![Image](https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamitetris-400x225.jpg?width=806&height=454)
+
 ### General
 
 Comando|Descripción|Usage
@@ -14,19 +14,22 @@ Comando|Descripción|Usage
 !brainpower| Brainpower lyrics|Todos
 !ffz|Emotes adicionales [FrankerFaceZ](https://www.frankerfacez.com/)|Todos
 !bttv|Emotes adicionales [BetterTTV](https://betterttv.com/)|Todos
+!tts `[texto]`|Texto a voz|Regulars
 
 ### Sonidos
 
 Comando|Descripción|Usage
 --|--|--
-!inception|♪ Inception|Streamer
-!cronica|♪ Cronica TV|Streamer
-!4w|♪ Usted ha sido forguaideado por Mikami|Moderadores
-!entra|♪ ¿Entraste?|Moderadores
+!waw|♪ Wha～o|Todos
+!omae|♪ Omae wa mou shindeiru|Todos
 !ayaya|♪ AYAYA AYAYA|Todos
 !manca|♪ Mikami eres manca|Subscriptores
-!omae|♪ Omae wa mou shindeiru|Todos
-!waw|♪ Wha～o|Todos
+!entra|♪ ¿Entraste?|Moderadores
+!4w|♪ Usted ha sido forguaideado por Mikami|Moderadores
+!inception|♪ Inception|Streamer
+!cronica|♪ Cronica TV|Streamer
+
+
 
 ### Moderadores
 
@@ -40,7 +43,10 @@ Comando|Descripción|Usage
 ### Enlaces
 - [Discord! ~Facción Tetris](https://discord.gg/hbU8xXK)
 - [Twitter](https://twitter.com/MikamiTETRIS)
+- [Instagram](https://instagram.com/MikamiTETRIS)
 - [Facebook](https://www.facebook.com/MikamiTETRIS)
 - [YouTube](https://www.youtube.com/channel/UC5Oq-n1od4UsWGvQcAR7A3A)
+
+![Image](https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamitetris-400x225.jpg?width=806&height=454)
 
 ~beta
