@@ -4,13 +4,15 @@
 
 Comando|Descripción|Usage
 --|--|--
-!discord|Discord! [~Facción Tetris](https://discord.gg/hbU8xXK)|Todos
-!loots|Link para enviar [loots](https://loots.com/mikamitetris)|Todos
+!discord|Discord de [Facción Tetris](https://discord.gg/hbU8xXK)|Todos
+!loots|Link para enviar [loots](https://new.loots.com/c/mikamitetris)|Todos
 !cofres|Link de [Streamloots](https://www.streamloots.com/mikamitetris)|Todos
 !redes|Redes sociales|Todos
 !youtube|[YouTube](https://www.youtube.com/channel/UC5Oq-n1od4UsWGvQcAR7A3A)|Todos
 !uptime|Tiempo de transmisión|Todos
 !clima|Clima en Buenos Aires|Todos
+!followage|¿Hace cuánto me seguís?|Todos
+!song|Canción actual|Todos
 !brainpower| Brainpower lyrics|Todos
 !ffz|Emotes adicionales [FrankerFaceZ](https://www.frankerfacez.com/)|Todos
 !bttv|Emotes adicionales [BetterTTV](https://betterttv.com/)|Todos
@@ -20,16 +22,14 @@ Comando|Descripción|Usage
 
 Comando|Descripción|Usage
 --|--|--
-!waw|♪ Wha～o|Todos
-!omae|♪ Omae wa mou shindeiru|Todos
 !ayaya|♪ AYAYA AYAYA|Todos
+!waw|♪ Wha～o|Todos
+!duro|♪ Duro|Todos
 !manca|♪ Mikami eres manca|Subscriptores
-!entra|♪ ¿Entraste?|Moderadores
-!4w|♪ Usted ha sido forguaideado por Mikami|Moderadores
-!inception|♪ Inception|Streamer
-!cronica|♪ Cronica TV|Streamer
-
-
+!entra|♪ ¿Entraste?|Subscriptores
+!4w|♪ Usted ha sido forguaideado por Mikami|Subscriptores
+!inception|♪ Inception|Subscriptores
+!calculus|♪ Matemáticas|Todos
 
 ### Moderadores
 
@@ -39,14 +39,14 @@ Comando|Descripción|Usage
 !so `<username>`|Envía un shoutout sobre el usuario|Moderadores
 !effz|Prueba de emote [FrankerFaceZ](https://www.frankerfacez.com/)|Moderadores
 !ebttv|Prueba de emote [BetterTTV](https://betterttv.com/)|Moderadores
+!followers|Cantidad de seguidores|Moderadores
+!viewers|Cantidad de espectadores|Moderadores
 
 ### Enlaces
-- [Discord! ~Facción Tetris](https://discord.gg/hbU8xXK)
+- [Discord de Facción Tetris](https://discord.gg/hbU8xXK)
 - [Twitter](https://twitter.com/MikamiTETRIS)
 - [Instagram](https://instagram.com/MikamiTETRIS)
 - [Facebook](https://www.facebook.com/MikamiTETRIS)
 - [YouTube](https://www.youtube.com/channel/UC5Oq-n1od4UsWGvQcAR7A3A)
 
 ![Image](https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamitetris-400x225.jpg?width=806&height=454)
-
-~beta
