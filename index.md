@@ -46,6 +46,6 @@ Comando|Descripción|Usage
 - [Twitter](https://twitter.com/MikamiTETRIS)
 - [Instagram](https://instagram.com/MikamiTETRIS)
 - [Facebook](https://www.facebook.com/MikamiTETRIS)
-- [YouTube](https://www.youtube.com/channel/UC5Oq-n1od4UsWGvQcAR7A3A)
+- [YouTube](https://www.youtube.com/c/MikamiTETRIS)
 
 ![Image](https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamitetris-400x225.jpg?width=806&height=454)
