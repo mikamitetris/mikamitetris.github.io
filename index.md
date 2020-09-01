@@ -5,10 +5,9 @@
 Comando|Descripción|Usage
 --|--|--
 !discord|Discord de [Facción Tetris](https://discord.gg/hbU8xXK)|Todos
-!loots|Link para enviar [loots](https://new.loots.com/c/mikamitetris)|Todos
 !cofres|Link de [Streamloots](https://www.streamloots.com/mikamitetris)|Todos
 !redes|Redes sociales|Todos
-!youtube|[YouTube](https://www.youtube.com/channel/UC5Oq-n1od4UsWGvQcAR7A3A)|Todos
+!youtube|[YouTube](https://www.youtube.com/c/mikamitetris)|Todos
 !uptime|Tiempo de transmisión|Todos
 !clima|Clima en Buenos Aires|Todos
 !followage|¿Hace cuánto me seguís?|Todos
@@ -29,7 +28,7 @@ Comando|Descripción|Usage
 !entra|♪ ¿Entraste?|Subscriptores
 !4w|♪ Usted ha sido forguaideado por Mikami|Subscriptores
 !inception|♪ Inception|Subscriptores
-!calculus|♪ Matemáticas|Todos
+!math|♪ Matemáticas|Todos
 
 ### Moderadores
 
