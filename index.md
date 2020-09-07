@@ -5,7 +5,6 @@
 Comando|Descripción|Usage
 --|--|--
 !discord|Discord de [Facción Tetris](https://discord.gg/hbU8xXK)|Todos
-!cofres|Link de [Streamloots](https://www.streamloots.com/mikamitetris)|Todos
 !redes|Redes sociales|Todos
 !youtube|[YouTube](https://www.youtube.com/c/mikamitetris)|Todos
 !uptime|Tiempo de transmisión|Todos
