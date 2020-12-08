@@ -27,7 +27,6 @@ Comando|Descripción|Usage
 !entra|♪ ¿Entraste?|Subscriptores
 !4w|♪ Usted ha sido forguaideado por Mikami|Subscriptores
 !inception|♪ Inception|Subscriptores
-!math|♪ Matemáticas|Todos
 
 ### Moderadores
 
